@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Project URL**: https://example.com/projects/48b5fcae-e4a9-4179-b143-c88fed8a767b
+**Project URL**: https://boisterous-halva-2144ef.netlify.app/
 
 ## How can I contribute to this project?
 
